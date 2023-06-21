@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "sass": "^1.26.10",
     "swiper": "^6.0.4",
     "vue-awesome-swiper": "^4.1.1"
